@@ -81,5 +81,6 @@
 <pre><code>/lhdt-admin/src/main/java/lhdt/LhdtAdminApplication.java</code></pre>
 
 ## License
+MIT?
 
 <br><br>
